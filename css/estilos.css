@@ -2,5 +2,9 @@ body {
   padding-left: 11em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
-  color: purple;
-  background-color: #d8da3d }
+  color: rgb(221, 204, 221);
+  background-color: #36362f;
+}
+#container{
+      border: rgb(235, 0, 235);
+}
